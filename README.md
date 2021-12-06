@@ -4,7 +4,8 @@
 <img src="https://cdn.discordapp.com/attachments/805191051316297759/895431920605872200/diabloakar.gif" width="500" />
 
 ## req?
-1. Install Python 3.10
+1. Install .net 4.8
+2. For Open Source = diablo akar#8363
 
 
 # Libraries I use;
