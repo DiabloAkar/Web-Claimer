@@ -5,7 +5,7 @@
 
 ## req?
 1. Install .net 4.8
-2. For Open Source = diablo akar#8363
+2. For Open Source = https://github.com/DiabloAkar/WebClaimer-source
 
 
 # Libraries I use;
